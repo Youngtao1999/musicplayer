@@ -1,24 +1,5 @@
 # youngplayer
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+本项目使用VSCode工具编码。是一个vue框架的练手项目，该项目中使用到了vue-router、element-ui、vue-cli及axios等相关技术。  
+## 项目展示与说明  
+### 文件结构  
+> [1]: https://s1.ax1x.com/2020/10/14/0IVpTJ.png
