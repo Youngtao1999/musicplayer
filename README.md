@@ -3,4 +3,4 @@
 ## 项目展示与说明  
 ### 文件结构  
 > 
-<img src="https://s1.ax1x.com/2020/10/14/0IVpTJ.png" width="50%">
+<img src="https://s1.ax1x.com/2020/10/14/0IVpTJ.png" width="50%" height="50%">
