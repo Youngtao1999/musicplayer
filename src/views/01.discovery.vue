@@ -19,7 +19,7 @@
               <span class="desc">{{item.copywriter}}</span>
             </div>
             <img :src="item.picUrl" alt="" />
-            <span class="iconfont icon-play"></span>
+            <span class="el-icon-video-play"></span>
           </div>
           <p class="name">{{item.name}}</p>
         </div>
@@ -34,7 +34,7 @@
         <div class="item" v-for="(item, index) in news" :key='index'>
           <div class="img-wrap">
             <img :src="item.picUrl" alt="" />
-            <span class="iconfont icon-play" @click="playMusic(item.id)"></span>
+            <span class="el-icon-video-play" @click="playMusic(item.id)"></span>
           </div>
           <div class="song-wrap">
             <div class="song-name">{{item.name}}</div>
@@ -50,9 +50,9 @@
         <div class="item" v-for="(item, index) in mvs" :key="index">
           <div class="img-wrap">
             <img :src="item.picUrl" alt="" />
-            <span class="iconfont icon-play"></span>
+            <span class="el-icon-video-play"></span>
             <div class="num-wrap">
-              <div class="iconfont icon-play"></div>
+              <div class="el-icon-video-play"></div>
               <div class="num">{{item.playCount}}</div>
             </div>
           </div>
